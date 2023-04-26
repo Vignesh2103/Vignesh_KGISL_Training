@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.kgisl.JUnitTest.JUnitRegisterTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.12 s <<< FAILURE! - in com.kgisl.JUnitTest.JUnitRegisterTest
+testMethodWithArguments{String}  Time elapsed: 0.12 s  <<< ERROR!
+org.junit.platform.commons.JUnitException: Could not find method [factoryMethodWithArguments] in class [com.kgisl.JUnitTest.JUnitRegisterTest]
+
