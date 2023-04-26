@@ -1,0 +1,49 @@
+Spring Bean:
+	*A Spring bean is a reusable and managed object instance that is created, configured, and assembled by the Spring IoC container.
+	
+component scan
+	In the context of Spring Framework's Inversion of Control (IoC) container, a "component scan" is a way of automatically detecting and registering Spring-managed components (such as beans) in your application context.
+	@ComponentScan(basePackages = "com.example.myapp")
+	
+Ioc Container:
+	Bean Model+Meta Data}----> Reday to use object
+	*Object Create
+	*Mangae data 
+	*
+	
+	
+In a Java web application, both ContextListener and ContextLoaderListener are used to handle events related to the ServletContext. However, there are some differences between the two:
+
+ContextListener:
+	ContextListener is an interface defined in the javax.servlet package
+	
+	it is used to handle events related to the ServletContext. 
+	
+	ContextListener has two methods: contextInitialized() and contextDestroyed()
+	
+	contextInitialized() is called when the web application is deployed and the ServletContext is created
+	
+	This method is typically used to perform initialization tasks such as setting up database connections, creating caches, and initializing global variables.
+	
+	contextDestroyed() is called when the web application is undeployed or the ServletContext is destroyed. 
+	
+	This method is typically used to perform cleanup tasks such as closing database connections and releasing resources.
+
+ContextLoaderListener:
+	ContextLoaderListener is a class defined in the Spring Framework, and it is used to load a Spring ApplicationContext in a web application. 
+	
+	ContextLoaderListener extends ContextLoader, which is responsible for loading the ApplicationContext from the specified configuration file(s).
+
+	ContextLoaderListener has one method: contextInitialized(), which is called when the ServletContext is initialized.
+	
+	This method creates and initializes the ApplicationContext and stores it as a context attribute so that it can be accessed by other components in the web application.
+
+	the main difference between ContextListener and ContextLoaderListener 
+	ContextListener is a standard Java interface used to handle events related to the ServletContext, 
+	while ContextLoaderListener is a class defined in the Spring Framework used to load a Spring ApplicationContext in a web application.
+
+
+
+
+
+

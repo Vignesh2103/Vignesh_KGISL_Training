@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Non Voters</title>
+  </head>
+  <body>
+    <table id="nonVotersTable">
+      <thead>
+        <tr>
+          <th>Voter ID</th>
+          <th>Name</th>
+          <th>Email</th>
+          <th>Age</th>
+          <th>Gender</th>
+          <th>Ward</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+    <script>
+      const nonVoters = [{"voter_id":"0004","name":"dinesh","email":"dinesh@gmail.com","password":"12345","age":22,"gender":"Male","ward":"35"}];
+      const table = document.getElementById("nonVotersTable");
+
+      for (let i = 0; i < nonVoters.length; i++) {
+        const voter = nonVoters[i];
+        const row = table.insertRow();
+
+        const voterIdCell = row.insertCell();
+        voterIdCell.innerHTML = voter.voter_id;
+
+        const nameCell = row.insertCell();
+        nameCell.innerHTML = voter.name;
+
+        const emailCell = row.insertCell();
+        emailCell.innerHTML = voter.email;
+
+        const ageCell = row.insertCell();
+        ageCell.innerHTML = voter.age;
+
+        const genderCell = row.insertCell();
+        genderCell.innerHTML = voter.gender;
+
+        const wardCell = row.insertCell();
+        wardCell.innerHTML = voter.ward;
+      }
+    </script>
+  </body>
+</html>

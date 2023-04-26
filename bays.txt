@@ -1,0 +1,102 @@
+'Fifth Floor', 'West',GSS5FBWS052 21860 DHANYA AJAYKUMAR Room 'Occupied'
+'Fifth Floor' ,''West', GSS5FBWS053 19219 MALATHY K Room 'Occupied'
+'Fifth Floor' 'East', GSS5FAWS029 28879 G NIVETHA WS 'Occupied'
+'Fifth Floor' ,'West', GSS5FBWS023 17930 SHEFALI K R WS 'Occupied'
+'Fifth Floor' ,'West', GSS5FBWS019 19377 HARIHARASUBRAMANIAN A WS 'Occupied'
+'Fifth Floor' ,'West', GSS5FBWS024 21136 ARUL GNANASEKAR WS 'Occupied'
+'Fifth Floor' 'East', GSS5FAWS032 WS Vacant
+'Fifth Floor' 'East', GSS5FAWS033 WS Vacant
+'Fifth Floor' 'East', GSS5FAWS034 WS Vacant
+'Fifth Floor' 'East', GSS5FAWS037 WS Vacant
+'Fourth  Floor', 'West', GSS4FBWS110 29574 VINODH RAJESH WS 'Occupied'
+'Fourth  Floor', 'West', GSS4FBWS115 29576 ARUNKUMAR MARAPPAKOUNDAR WS 'Occupied'
+'Fourth  Floor' ,'West', GSS4FBWS023 30155 WS 'Occupied'
+'Fourth  Floor' 'East', GSS4FAWS062 19481 WS 'Occupied'
+'Fourth  Floor' 'East', GSS4FAWS066 28265 WS 'Occupied'
+'Fourth  Floor' ,'West', GSS4FBWS112 29681 MOHANA PRASATH S WS 'Occupied'
+'Fourth  Floor' ,'West', GSS4FBWS127 29731 SOUNDARYA PONRAJ WS 'Occupied'
+'Fourth  Floor' 'East', GSS4FAWS002 WS Vacant
+'Fourth  Floor' 'East', GSS4FAWS048 19405 SUKRUTHA KRISHNARAYA KINI PM Cabin 'Occupied'
+'Fourth  Floor' 'East', GSS4FAWS019 29886 B DHIVYA WS ''Occupied'',
+'Fourth  Floor' ,'West', GSS4FBWS044 WS Vacant
+'Fourth  Floor', 'West', GSS4FBWS064 WS Vacant
+''Third Floor','East', GSS3FAWS067 18073 SIVA KUMAR PRAMASIVAM WS ''Occupied'',
+''Third Floor','West', GSS3FBWS037 27531 JOTHIRAJA NAMACHIVAYAM WS ''Occupied'',
+''Third Floor', 'West', GSS3FBWS025 22494 KARTHICK KUMAR M WS ''Occupied'',
+''Third Floor', 'West', GSS3FBWS018 15172 SUCHITRA S WS ''Occupied'',
+''Third Floor', 'West', GSS3FBWS058 27824 KAVINKUMAR SHANMUGAM WS ''Occupied'',
+''Third Floor','West', GSS3FBWS081 28966 MUTHURAJA B WS ''Occupied'',
+''Third Floor','West', GSS3FBWS028 C1049 GAYAN MAHESH SURANGA WS ''Occupied'',
+''Third Floor','East', GSS3FAWS055 15160 NITHYANANDHAN S S WS ''Occupied'',
+''Third Floor', 'West', GSS3FBWS097 25084 NARENDRAN ARUMUGAM WS ''Occupied'',
+''Third Floor',''East', GSS3FAWS023 13581 MANOJKUMAR M PM Cabin ''Occupied'',
+''Third Floor', 'East', GSS3FAWS059 23827 MOHAN PRASATH T WS ''Occupied'',
+''Third Floor','West', GSS3FBWS120 29602 ANANDARAMAN J WS ''Occupied'',
+''Third Floor', 'East', GSS3FAWS064 12184 KAVITHA D WS ''Occupied'',
+'Third Floor', 'West', GSS3FBWS024 23524 MAHENDRAN KALARAJ WS 'Occupied'
+'Third Floor', 'West', GSS3FBWS023 13563 SARDHAR B WS ''Occupied'',
+'Third Floor', 'East', GSS3FAWS043 25436 DIVYA WS 'Occupied',
+'Third Floor', 'East', GSS3FAWS053 13825 DINESH SUNDER R WS 'Occupied'
+'Third Floor', 'West', GSS3FBWS027 27694 SUBATHRASELVI SELVARAJ WS 'Occupied'
+'Third Floor', 'East', GSS3FAWS065 28088 R ABINESH WS 'Occupied'
+'Third Floor', 'West', GSS3FBWS107 26936 VIVEKANAND MADESHWARAN WS'Occupied''
+'Third Floor', 'East', GSS3FAWS068 28430 THILAK CHAKRAVARTHI R WS 'Occupied'
+'Third Floor', 'West', GSS3FBWS059 28755 NIRANDHARAN CHANDRAN WS 'Occupied'
+'Third Floor', 'West', GSS3FBWS087 28908 KRISHNAMOORTHY SIVANMALAIGOUNDER WS 'Occupied'
+'Third Floor', 'East', GSS3FAWS048 11841 PRIYADHARSINI R WS 'Occupied'
+'Third Floor', 'East', GSS3FAWS026 25436 WS 'Occupied'
+'Third Floor', 'West', GSS3FBWS094 WS Vacant
+'Third Floor', 'West', GSS3FBWS121 WS Vacant
+'Third Floor', 'West', GSS3FBWS131 WS Vacant
+'Third Floor', 'West', GSS3FBWS108 PGM Cabin Vacant
+'Third Floor', 'East', GSS3FAWS038 WS Vacant
+'Third Floor', 'East', GSS3FAWS039 WS Vacant
+'Third Floor', 'East', GSS3FAWS040 WS Vacant
+'Third Floor', 'East', GSS3FAWS050 WS Vacant
+'Third Floor', 'East', GSS3FAWS052 WS Vacant
+'Third Floor', 'East', GSS3FAWS046 PM Cabin Vacant
+'Third Floor', 'East', GSS3FAWS006 Server WS 'Occupied'
+'Third Floor', 'East', GSS3FAWS005 WS Vacant
+'Third Floor', 'East', GSS3FAWS010 WS Vacant
+'Third Floor', 'East', GSS3FAWS009 28082 WS 'Occupied'
+'Third Floor', 'East', GSS3FAWS007 Server WS 'Occupied'
+'Third Floor', 'East', GSS3FAWS013 28071 WS 'Occupied'
+'Third Floor', 'East', GSS3FAWS037 30153 NAGARJUN PANDIKUMAR WS 'Occupied'
+'Third Floor', 'East', GSS3FAWS047A Room Vacant
+'Third Floor', 'East', GSS3FAWS071 Room Vacant
+'Third Floor', 'East', GSS3FAWS019 WS Vacant
+'Third Floor', 'East', GSS3FAWS028 WS Vacant
+'Third Floor', 'East', GSS3FAWS029 WS Vacant
+'Third Floor', 'East', GSS3FAWS030 WS Vacant
+'Third Floor', 'West', GSS3FBWS100 29906 RAMESH NIRANJAN WS 'Occupied'
+'Third Floor', 'West', GSS3FBWS079 29125 SHASHANK KALYANA SUNDARAM WS 'Occupied'
+'Second Floor', 'East', GSS2FAWS076 27621 EARNEST JABARAJ WS 'Occupied'
+'Second Floor', 'East', GSS2FAWS041 WS Vacant
+'Second Floor', 'East', GSS2FAWS027 WS Vacant
+'Second Floor', 'East', GSS2FAWS028 WS Vacant
+'Second Floor', 'East', GSS2FAWS040 WS Vacant
+'Second Floor', 'East', GSS2FAWS039 WS Vacant
+'Second Floor', 'East', GSS2FAWS025 28964 KAVYA S WS 'Occupied'
+'Second Floor', 'East', GSS2FAWS033 WS Vacant
+'Second Floor', 'East', GSS2FAWS034 WS Vacant
+'Second Floor', 'East', GSS2FAWS045 WS Vacant
+'First Floor', 'West', GSS1FBWS001 WS Vacant
+'First Floor', 'East', GSS1FAWS026 27987 GAYATHRI K WS 'Occupied'
+'First Floor', 'East', GSS1FAWS021 28343 SREESHA K WS 'Occupied'
+'First Floor', 'West', GSS1FBWS009 PM Cabin Vacant
+'First Floor', 'West', GSS1FBWS016 WS Vacant
+'First Floor', 'West', GSS1FBWS017 WS Vacant
+'First Floor', 'West', GSS1FBWS028 22907 DEEPAK G WS 'Occupied'
+'First Floor', 'West', GSS1FBWS022 WS Vacant
+'First Floor', 'West', GSS1FBWS027 WS Vacant
+'First Floor', 'East', GSS1FAWS008 WS Vacant
+'Ground Floor', 'East', GSSGFAWS032 29905 PREMNATH T G WS 'Occupied'
+'Ground Floor', 'East', GSSGFAWS005 27529 JENCY PRIYA WS 'Occupied'
+'Ground Floor', 'East', GSSGFAWS003 23956 NIXSON A. S WS 'Occupied'
+'Ground Floor', 'East', GSSGFAWS040 Room Vacant
+'Ground Floor', 'East', GSSGFAWS016 26426 HARI VENKATA PRASADA RAO GOPISETTI Room 'Occupied'
+'Ground Floor', 'East', GSSGFAWS008 WS Vacant
+'Ground Floor', 'East', GSSGFAWS015 WS Vacant
+'Ground Floor', 'East', GSSGFAWS001 Room Vacant
+'Ground Floor', 'East', GSSGFAWS009 WS Vacant
+'Ground Floor', 'East', GSSGFAWS014 WS Vacant
