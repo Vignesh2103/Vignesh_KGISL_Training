@@ -1,0 +1,1022 @@
+[
+ {
+   "FLOOR_NO": "FifthFloor",
+   "WING": "West",
+   "BAY_NO": "GSS5FBWS052",
+   "ASSOCIATE_CODE": "21860",
+   "ASSOCIATE_NAME": "DHANYAAJAYKUMAR",
+   "BAY_TYPE": "Room",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FifthFloor",
+   "WING": "West",
+   "BAY_NO": "GSS5FBWS053",
+   "ASSOCIATE_CODE": "19219",
+   "ASSOCIATE_NAME": "MALATHYK",
+   "BAY_TYPE": "Room",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FifthFloor",
+   "WING": "East",
+   "BAY_NO": "GSS5FAWS029",
+   "ASSOCIATE_CODE": "28879",
+   "ASSOCIATE_NAME": "G",
+   "BAY_TYPE": "NIVETHA",
+   "C_STATUS": "WS",
+   "FIELD8": "Occupied"
+ },
+ {
+   "FLOOR_NO": "FifthFloor",
+   "WING": "West",
+   "BAY_NO": "GSS5FBWS023",
+   "ASSOCIATE_CODE": "17930",
+   "ASSOCIATE_NAME": "SHEFALIKR",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FifthFloor",
+   "WING": "West",
+   "BAY_NO": "GSS5FBWS019",
+   "ASSOCIATE_CODE": "19377",
+   "ASSOCIATE_NAME": "HARIHARASUBRAMANIAN.A",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FifthFloor",
+   "WING": "West",
+   "BAY_NO": "GSS5FBWS024",
+   "ASSOCIATE_CODE": "21136",
+   "ASSOCIATE_NAME": "ARULGNANASEKAR",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FifthFloor",
+   "WING": "East",
+   "BAY_NO": "GSS5FAWS032",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FifthFloor",
+   "WING": "East",
+   "BAY_NO": "GSS5FAWS033",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FifthFloor",
+   "WING": "East",
+   "BAY_NO": "GSS5FAWS034",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FifthFloor",
+   "WING": "East",
+   "BAY_NO": "GSS5FAWS037",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FourthFloor",
+   "WING": "West",
+   "BAY_NO": "GSS4FBWS110",
+   "ASSOCIATE_CODE": "29574",
+   "ASSOCIATE_NAME": "VINODHRAJESH",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FourthFloor",
+   "WING": "West",
+   "BAY_NO": "GSS4FBWS115",
+   "ASSOCIATE_CODE": "29576",
+   "ASSOCIATE_NAME": "ARUNKUMARMARAPPAKOUNDAR",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FourthFloor",
+   "WING": "West",
+   "BAY_NO": "GSS4FBWS023",
+   "ASSOCIATE_CODE": "30155",
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FourthFloor",
+   "WING": "East",
+   "BAY_NO": "GSS4FAWS062",
+   "ASSOCIATE_CODE": "19481",
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FourthFloor",
+   "WING": "East",
+   "BAY_NO": "GSS4FAWS066",
+   "ASSOCIATE_CODE": "28265",
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FourthFloor",
+   "WING": "West",
+   "BAY_NO": "GSS4FBWS112",
+   "ASSOCIATE_CODE": "29681",
+   "ASSOCIATE_NAME": "MOHANAPRASATHS",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FourthFloor",
+   "WING": "West",
+   "BAY_NO": "GSS4FBWS127",
+   "ASSOCIATE_CODE": "29731",
+   "ASSOCIATE_NAME": "SOUNDARYAPONRAJ",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FourthFloor",
+   "WING": "East",
+   "BAY_NO": "GSS4FAWS002",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FourthFloor",
+   "WING": "East",
+   "BAY_NO": "GSS4FAWS048",
+   "ASSOCIATE_CODE": "19405",
+   "ASSOCIATE_NAME": "SUKRUTHAKRISHNARAYAKINI",
+   "BAY_TYPE": "PMCabin",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FourthFloor",
+   "WING": "East",
+   "BAY_NO": "GSS4FAWS019",
+   "ASSOCIATE_CODE": "29886",
+   "ASSOCIATE_NAME": "BDHIVYA",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FourthFloor",
+   "WING": "West",
+   "BAY_NO": "GSS4FBWS044",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FourthFloor",
+   "WING": "West",
+   "BAY_NO": "GSS4FBWS064",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS067",
+   "ASSOCIATE_CODE": "18073",
+   "ASSOCIATE_NAME": "SIVAKUMARPRAMASIVAM",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS037",
+   "ASSOCIATE_CODE": "27531",
+   "ASSOCIATE_NAME": "JOTHIRAJANAMACHIVAYAM",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS025",
+   "ASSOCIATE_CODE": "22494",
+   "ASSOCIATE_NAME": "KARTHICKKUMAR",
+   "BAY_TYPE": "M",
+   "C_STATUS": "WS",
+   "FIELD8": "Occupied"
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS018",
+   "ASSOCIATE_CODE": "15172",
+   "ASSOCIATE_NAME": "SUCHITRAS",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS058",
+   "ASSOCIATE_CODE": "27824",
+   "ASSOCIATE_NAME": "KAVINKUMARHANMUGAM",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS081",
+   "ASSOCIATE_CODE": "28966",
+   "ASSOCIATE_NAME": "MUTHURAJAB",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS028",
+   "ASSOCIATE_CODE": "C1049",
+   "ASSOCIATE_NAME": "GAYANMAHESHSURANGA",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS055",
+   "ASSOCIATE_CODE": "15160",
+   "ASSOCIATE_NAME": "NITHYANANDHANSS",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS097",
+   "ASSOCIATE_CODE": "25084",
+   "ASSOCIATE_NAME": "NARENDRANARUMUGAM",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS023",
+   "ASSOCIATE_CODE": "13581",
+   "ASSOCIATE_NAME": "MANOJKUMARM",
+   "BAY_TYPE": "PMCabin",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS059",
+   "ASSOCIATE_CODE": "23827",
+   "ASSOCIATE_NAME": "MOHANPRASATHT",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS120",
+   "ASSOCIATE_CODE": "29602",
+   "ASSOCIATE_NAME": "ANANDARAMANJ",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS064",
+   "ASSOCIATE_CODE": "12184",
+   "ASSOCIATE_NAME": "KAVITHAD",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS024",
+   "ASSOCIATE_CODE": "23524",
+   "ASSOCIATE_NAME": "MAHENDRANKALARAJ",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS023",
+   "ASSOCIATE_CODE": "13563",
+   "ASSOCIATE_NAME": "SARDHARB",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS043",
+   "ASSOCIATE_CODE": "25436",
+   "ASSOCIATE_NAME": "DIVYA",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS053",
+   "ASSOCIATE_CODE": "13825",
+   "ASSOCIATE_NAME": "DINESHSUNDERR",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS027",
+   "ASSOCIATE_CODE": "27694",
+   "ASSOCIATE_NAME": "SUBATHRASELVISELVARAJ",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS065",
+   "ASSOCIATE_CODE": "28088",
+   "ASSOCIATE_NAME": "RABINESH",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS107",
+   "ASSOCIATE_CODE": "26936",
+   "ASSOCIATE_NAME": "VIVEKANANDMADESHWARAN",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS068",
+   "ASSOCIATE_CODE": "28430",
+   "ASSOCIATE_NAME": "THILAKCHAKRAVARTHINR",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS059",
+   "ASSOCIATE_CODE": "28755",
+   "ASSOCIATE_NAME": "NIRANDHARANCHANDRAN",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS087",
+   "ASSOCIATE_CODE": "28908",
+   "ASSOCIATE_NAME": "KRISHNAMOORTHYSIVANMALAIGOUNDER",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS048",
+   "ASSOCIATE_CODE": "11841",
+   "ASSOCIATE_NAME": "PRIYADHARSINIR",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS026",
+   "ASSOCIATE_CODE": "25436",
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS094",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS121",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS131",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS108",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "PM",
+   "C_STATUS": "Cabin",
+   "FIELD8": "Vacant"
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS038",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS039",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS040",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS050",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS052",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS046",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "PMCabin",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS006",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "ServerWS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS005",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS010",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS009",
+   "ASSOCIATE_CODE": "28082",
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS007",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS013",
+   "ASSOCIATE_CODE": "28071",
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS037",
+   "ASSOCIATE_CODE": "30153",
+   "ASSOCIATE_NAME": "NAGARJUNPANDIKUMAR",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS047",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "Room",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS071",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "Room",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS019",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS028",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS029",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "East",
+   "BAY_NO": "GSS3FAWS030",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS100",
+   "ASSOCIATE_CODE": "29906",
+   "ASSOCIATE_NAME": "RAMESHNIRANJAN",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "ThirdFloor",
+   "WING": "West",
+   "BAY_NO": "GSS3FBWS079",
+   "ASSOCIATE_CODE": "29125",
+   "ASSOCIATE_NAME": "SHASHANKKALYANASUNDARAM",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "SecondFloor",
+   "WING": "East",
+   "BAY_NO": "GSS2FAWS076",
+   "ASSOCIATE_CODE": "27621",
+   "ASSOCIATE_NAME": "EARNESTABARAJ",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "SecondFloor",
+   "WING": "East",
+   "BAY_NO": "GSS2FAWS041",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "SecondFloor",
+   "WING": "East",
+   "BAY_NO": "GSS2FAWS027",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "SecondFloor",
+   "WING": "East",
+   "BAY_NO": "GSS2FAWS028",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "SecondFloor",
+   "WING": "East",
+   "BAY_NO": "GSS2FAWS040",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "SecondFloor",
+   "WING": "East",
+   "BAY_NO": "GSS2FAWS039",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "SecondFloor",
+   "WING": "East",
+   "BAY_NO": "GSS2FAWS025",
+   "ASSOCIATE_CODE": "28964",
+   "ASSOCIATE_NAME": "KAVYAS",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "SecondFloor",
+   "WING": "East",
+   "BAY_NO": "GSS2FAWS033",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "SecondFloor",
+   "WING": "East",
+   "BAY_NO": "GSS2FAWS034",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "SecondFloor",
+   "WING": "East",
+   "BAY_NO": "GSS2FAWS045",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FirstFloor",
+   "WING": "West",
+   "BAY_NO": "GSS1FBWS001",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FirstFloor",
+   "WING": "East",
+   "BAY_NO": "GSS1FAWS026",
+   "ASSOCIATE_CODE": "27987",
+   "ASSOCIATE_NAME": "GAYATHRIK",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FirstFloor",
+   "WING": "East",
+   "BAY_NO": "GSS1FAWS021",
+   "ASSOCIATE_CODE": "28343",
+   "ASSOCIATE_NAME": "SREESHAK",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FirstFloor",
+   "WING": "West",
+   "BAY_NO": "GSS1FBWS009",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "PMCabin",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FirstFloor",
+   "WING": "West",
+   "BAY_NO": "GSS1FBWS016",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FirstFloor",
+   "WING": "West",
+   "BAY_NO": "GSS1FBWS017",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FirstFloor",
+   "WING": "West",
+   "BAY_NO": "GSS1FBWS028",
+   "ASSOCIATE_CODE": "22907",
+   "ASSOCIATE_NAME": "DEEPAKG",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "FirstFloor",
+   "WING": "West",
+   "BAY_NO": "GSS1FBWS022",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FirstFloor",
+   "WING": "West",
+   "BAY_NO": "GSS1FBWS027",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "FirstFloor",
+   "WING": "East",
+   "BAY_NO": "GSS1FAWS008",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "GroundFloor",
+   "WING": "East",
+   "BAY_NO": "GSSGFAWS032",
+   "ASSOCIATE_CODE": "29905",
+   "ASSOCIATE_NAME": "PREMNATHTG",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "GroundFloor",
+   "WING": "East",
+   "BAY_NO": "GSSGFAWS005",
+   "ASSOCIATE_CODE": "27529",
+   "ASSOCIATE_NAME": "JENCYPRIYA",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "GroundFloor",
+   "WING": "East",
+   "BAY_NO": "GSSGFAWS003",
+   "ASSOCIATE_CODE": "23956",
+   "ASSOCIATE_NAME": "NIXSONAS",
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "GroundFloor",
+   "WING": "East",
+   "BAY_NO": "GSSGFAWS040",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": "NULL",
+   "BAY_TYPE": "Room",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "GroundFloor",
+   "WING": "East",
+   "BAY_NO": "GSSGFAWS016",
+   "ASSOCIATE_CODE": "26426",
+   "ASSOCIATE_NAME": "HARIVENKATAPRASADARAOGOPISETTI",
+   "BAY_TYPE": "Room",
+   "C_STATUS": "Occupied"
+   
+ },
+ {
+   "FLOOR_NO": "GroundFloor",
+   "WING": "East",
+   "BAY_NO": "GSSGFAWS008",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "GroundFloor",
+   "WING": "East",
+   "BAY_NO": "GSSGFAWS015",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "GroundFloor",
+   "WING": "East",
+   "BAY_NO": "GSSGFAWS001",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "Room",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "GroundFloor",
+   "WING": "East",
+   "BAY_NO": "GSSGFAWS009",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ },
+ {
+   "FLOOR_NO": "GroundFloor",
+   "WING": "East",
+   "BAY_NO": "GSSGFAWS014",
+   "ASSOCIATE_CODE": null,
+   "ASSOCIATE_NAME": null,
+   "BAY_TYPE": "WS",
+   "C_STATUS": "Vacant"
+   
+ }
+]
